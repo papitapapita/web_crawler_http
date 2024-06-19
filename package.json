@@ -1,0 +1,23 @@
+{
+  "name": "web_crawler_http",
+  "version": "1.0.0",
+  "description": "An HTTP practice project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papitapapita/web_crawler_http.git"
+  },
+  "author": "Jonathan O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papitapapita/web_crawler_http/issues"
+  },
+  "homepage": "https://github.com/papitapapita/web_crawler_http#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
