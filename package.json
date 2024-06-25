@@ -19,5 +19,8 @@
   "homepage": "https://github.com/papitapapita/web_crawler_http#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.1.0"
   }
 }
